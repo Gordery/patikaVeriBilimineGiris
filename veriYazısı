@@ -1,0 +1,29 @@
+VERİ BİLİMİ
+
+Veri bilimi veriden faydalı bilgi çıkarma sürecidir.
+
+Veriden faydalı bilgi çıkarma: Zorluk arttıkça kullanacak olduğumuz analitik türününde katma değeri artacak.
+Analitik Türleri:
+Betimleyici analitik (Descriptive Analytics): Ne olmuş? Sorusuna yanıt aranır.
+Teşhis/Tanı Analitiği (Diagnostic Analytics) : Neden soruna yanıt arar. Neden olmuş nasıl olmuş?
+Tahminsel(Predictive Analytics) Analitik: Ne olacak? Gelecekler ilgili tahminler yapmaya yarar.
+Yönergeli Normatif Analitik ( Prescriptive Analytics): Nasıl olmalı ne olmalı? Sorularına yanıt arar. Ne yaparsam gelirim artar? 
+
+Veriden Faydalı Bilgi Çıkarma:
+
+Arkadaş önerileri, otomatik fotoğraf etiketlemeleri, hedefli içerik pazarlama, otomatik mesaj tamamlama, hedefli ürün pazarlama, tavsiye sistemleri, 
+
+Müşteri segmentasyonu, Kanser/ Hastalık teşhisi, Şirketlerin gelir tahmini ile strateji belirlemesi, Başvuru değerlendirme, Akıllı portföy, Doğal afet modelleme çalışmaları, E spor Analitiği,
+
+Otonom araçlar, Nesne tanıma/takip uygulamaları, Sahte deep fake videolar, Eski resimlerin canlandırılması, Algoritmaların geliştirdiği resimler/var olmayan kişiler, Robotlar..
+
+Veri Bilimi Proje Döngüsü
+
+Sıfırdan ürün geliştirmek için bu döngüye gir. (CRISP-DM) 
+
+Adım 1: İş Anlayışı
+Adım 2: Veriyi Anlamak
+Adım 3: Verinin Hazırlanması
+Adım 4: Modelleme
+Adım 5: Değerlendirme
+Adım 6: Kullanıma Sokma
